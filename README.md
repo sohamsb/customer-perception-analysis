@@ -17,7 +17,9 @@ Mapped the most frequently mentioned words to seven key attributes - Seating, Fl
 *Analysis Framework:*
 
 Sentiment Analysis: Leveraged VADER to determine positive and negative sentiments across reviews.
+
 Time Series Analysis: Assessed trends in sentiments and ratings using a 3-year moving average.
+
 Attribute Contribution: Evaluated attribute-wise contributions to customer reviews pre and post-takeover.
 
 ## Data Analysis
@@ -38,8 +40,11 @@ The positive shifts in customer sentiment and ratings seem to validate early res
 ## Files Included
 
 *Airline Scraping.ipynb*: Generates a cleaned dataset of ~1500 reviews and ratings for Air India, scraped from SkyTrax, spanning 2011–2024.
+
 *Time-Series.ipynb*: Time series analysis of customer sentiments and ratings.
+
 *sentiment_data_v2.csv*: Contains user ratings and reviews with corresponding sentiment scores.
+
 *attribute_word_frequencies.csv*: Contains the 5 most frequently mentioned customer experience attributes in reviews, both before and after the TATA takeover.
 
 ## Conclusion
