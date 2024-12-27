@@ -16,6 +16,6 @@ Mapped the most frequently mentioned words to seven key attributes: Seating, Fli
 
 *Analysis Framework:*
 
-  Sentiment Analysis: Leveraged VADER to determine positive and negative sentiments across reviews.
-  Time Series Analysis: Assessed trends in sentiments and ratings using a 3-year moving average.
-  Attribute Contribution: Evaluated attribute-wise contributions to customer reviews pre and post-takeover.
+Sentiment Analysis: Leveraged VADER to determine positive and negative sentiments across reviews.
+Time Series Analysis: Assessed trends in sentiments and ratings using a 3-year moving average.
+Attribute Contribution: Evaluated attribute-wise contributions to customer reviews pre and post-takeover.
