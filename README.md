@@ -12,7 +12,7 @@ Scraped ~1500 reviews and user ratings from Skytrax using Selenium, spanning the
 Preprocessed the dataset to remove stopwords and clean raw text using NLP techniques like regular expressions and NLTK.
 
 *Attribute Mapping:*
-Mapped the most frequently mentioned words to seven key attributes: Seating, Flight Punctuality, Dining, Luggage Handling, Entertainment, and Service.
+Mapped the most frequently mentioned words to seven key attributes - Seating, Flight Punctuality, Dining, Luggage Handling, Entertainment, and Service.
 
 *Analysis Framework:*
 
